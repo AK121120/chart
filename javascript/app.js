@@ -70,7 +70,7 @@ function createGraph(data) {
 	            tick: {
 	            	multiline: false,
                 	culling: {
-                    	max: 20
+                    	max: 12
                 	}
             	}
 	        }
